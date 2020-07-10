@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:gravity="center">
+
+
+    <!-- 图片查看器的下载和收藏按钮  -->
+
+    <ImageView
+        android:id="@+id/iv_img_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:scaleType="fitXY"
+        android:src="@mipmap/logo"
+         />
+
+    <Button
+        android:id="@+id/btn_img_download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_img_check"
+        android:background="@drawable/radius"
+        android:text="@string/img_check_down"
+        android:layout_marginTop="@dimen/margin_size"
+        android:layout_marginLeft="@dimen/margin_size"
+        />
+
+    <Button
+        android:layout_marginTop="@dimen/margin_size"
+        android:id="@+id/btn_img_collect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_img_check"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/radius"
+        android:text="@string/img_check_collect"
+        android:layout_marginLeft="@dimen/margin_size"
+       />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="input">
+        <attr name="hint" format="string"></attr>
+        <attr name="icon" format="reference"></attr>
+    </declare-styleable>
+    <declare-styleable name="EditTextAttr">
+        <!-- 左边图片的大小 -->
+        <attr name="clearEdit_Left" format="dimension"/>
+        <attr name="clearEdit_Right" format="dimension"/>
+        <attr name="clearEdit_disableClean" format="boolean"/>
+    </declare-styleable>
+</resources>

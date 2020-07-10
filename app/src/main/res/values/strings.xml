@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CollectApp</string>
+    <!-- 欢迎页   -->
+    <string name="splash_title">乐享生活</string>
+    <!--  login  -->
+    <string name="login_name_hint">用户名</string>
+    <string name="login_pwd_hint">密码</string>
+    <string name="login_btn_text">登录</string>
+    <string name="login_remember_me">记住我</string>
+    <string name="login_register_tip">立即注册</string>
+    <string name="login_forget_tip">忘记密码</string>
+    <!-- register   -->
+    <string name="register_btn">注册</string>
+    <string name="register_pwd_confirm">确认密码</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <!-- 主界面   -->
+    <string name="main_imageInfo">图片鉴赏</string>
+    <string name="main_ArticleInfo">文章赏析</string>
+    <string name="main_MeInfo">个人中心</string>
+
+    <!-- 图片鉴赏相关 -->
+    <string name="img_check_down">图片下载</string>
+    <string name="img_check_collect">图片收藏</string>
+    <string name="me_name">用户名</string>
+
+    <!-- 文章内容   -->
+    <string name="content_title">标题</string>
+    <string name="content_author">作者</string>
+</resources>

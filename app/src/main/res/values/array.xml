@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="sleep_moon">
+       <item>@drawable/smbh_00001</item>
+       <item>@drawable/smbh_00002</item>
+       <item>@drawable/smbh_00003</item>
+       <item>@drawable/smbh_00004</item>
+       <item>@drawable/smbh_00005</item>
+       <item>@drawable/smbh_00006</item>
+       <item>@drawable/smbh_00007</item>
+       <item>@drawable/smbh_00008</item>
+       <item>@drawable/smbh_00009</item>
+       <item>@drawable/smbh_000010</item>
+       <item>@drawable/smbh_000011</item>
+       <item>@drawable/smbh_000012</item>
+       <item>@drawable/smbh_000013</item>
+       <item>@drawable/smbh_000014</item>
+       <item>@drawable/smbh_000015</item>
+       <item>@drawable/smbh_000016</item>
+       <item>@drawable/smbh_000017</item>
+       <item>@drawable/smbh_000018</item>
+       <item>@drawable/smbh_000019</item>
+       <item>@drawable/smbh_000020</item>
+       <item>@drawable/smbh_000021</item>
+       <item>@drawable/smbh_000022</item>
+       <item>@drawable/smbh_000023</item>
+       <item>@drawable/smbh_000024</item>
+       <item>@drawable/smbh_000025</item>
+       <item>@drawable/smbh_000026</item>
+       <item>@drawable/smbh_000027</item>
+       <item>@drawable/smbh_000028</item>
+       <item>@drawable/smbh_000029</item>
+       <item>@drawable/smbh_000030</item>
+   </string-array>
+</resources>
